@@ -41,4 +41,5 @@ tuple1=(10,20,"Apple",3.4,'a',["master","ji"],("sita","geeta",22),[{"roll_no":1}
 print(len(tuple1)) #output:8
 print(tuple1[-1][-1]["name"]) #output:Naveet
 print(tuple1[-1][0]["roll_no"]) #output:1
-print(tuple1[-3][1]) #output:
+print(tuple1[-3][1]) #output:ji
+print(tuple1[-2][2]) #output:22
