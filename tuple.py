@@ -30,3 +30,5 @@ print(sd)
 mark_det={"english":43,"math":54,"science":89}
 sd.update(mark_det)
 print(sd)
+
+__str__=4
