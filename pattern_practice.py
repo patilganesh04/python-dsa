@@ -25,8 +25,14 @@
 # * * * *
 # * * * *
 # * * * *
-n=int(input("Enter number:"))
-for i in range(n,0,-1):
-    for j in range(0,i): 
-        print("*",end=" ")
-    print()
+# n=int(input("Enter number:"))
+# for i in range(n,0,-1):
+#     for j in range(0,i): 
+#         print("*",end=" ")
+#     print()
+
+# Enter number:4
+# * * * * 
+# * * *
+# * *
+# *
